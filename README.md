@@ -11,4 +11,4 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 
 <br />
 
-<img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=TahBee03&show_icons=true&high_border=true&theme=dracula">
+<img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=TahBee03&show_icons=true&high_border=true&theme=dracula">
