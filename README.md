@@ -13,6 +13,7 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
     <img alt="vs code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50"/>
     <img alt="html" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="50"/>
     <img alt="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50"/>
+    <img alt="bash" src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" width="55"/>
 </p>  
   
 <br/>
