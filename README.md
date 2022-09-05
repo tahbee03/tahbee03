@@ -5,6 +5,7 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 
 ## Skills
 <p align="left">
+    <img alt="c" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50"/>
     <img alt="cpp" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="50"/>
     <img alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50"/>
     <img alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50"/>
