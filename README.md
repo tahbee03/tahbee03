@@ -16,6 +16,7 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
     <img alt="html" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" height="50"/>
     <img alt="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="50"/>
     <img alt="js" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50"/>
+    <img alt="heroku" src="https://www.svgrepo.com/show/353869/heroku-icon.svg" height="50"/>
     <img alt="bash" src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" height="50"/>
     <img alt="linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tux_Enhanced.svg/154px-Tux_Enhanced.svg.png" height="50"/>
     <img alt="corel vector" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gravit_Designer_Logo.svg/1200px-Gravit_Designer_Logo.svg.png" height="50"/>
