@@ -29,6 +29,10 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
   
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahbee03)
+
+<br/>
+
 ## More
 **LinkedIn:** [linkedin.com/in/talikebennett/](https://www.linkedin.com/in/talikebennett/)  
 **Discord:** TDB _#8730_
