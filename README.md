@@ -29,7 +29,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
   
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahbee03)
+<p align="center">
+    <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahbee03">
+</p>
 
 <br/>
 
