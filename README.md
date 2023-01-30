@@ -99,6 +99,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 <img alt="raspberry pi"
      src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png"
      height="50"/>
+<img alt="notion"
+     src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224"
+     height="50"/>
      
 <br/>
 
