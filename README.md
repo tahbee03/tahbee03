@@ -44,6 +44,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 <img alt="bootstrap" 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" 
      height="50"/>
+<img alt="express"
+     src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"
+     height="50"/>
      
 ### Operating Systems
 <img alt="android" 
@@ -101,6 +104,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
      height="50"/>
 <img alt="notion"
      src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224"
+     height="50"/>
+<img alt="node.js"
+     src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"
      height="50"/>
      
 <br/>
