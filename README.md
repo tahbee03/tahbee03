@@ -25,7 +25,10 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" 
      height="50"/>
 <img alt="js" 
-     src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
+     src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" 
+     height="50"/>
+<img alt="ts"
+     src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
      height="50"/>
 <img alt="bash" 
      src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" 
@@ -46,6 +49,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
      height="50"/>
 <img alt="express"
      src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"
+     height="50"/>
+<img alt="react"
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
      height="50"/>
      
 ### Operating Systems
