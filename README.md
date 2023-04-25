@@ -75,6 +75,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 <img alt="inkscape"
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png"
      height="50"/>
+<img alt="figma"
+     src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+     height="50"/>
       
 ### Databases
 <img alt="mysql" 
