@@ -78,6 +78,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 <img alt="figma"
      src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
      height="50"/>
+<img alt="coolors"
+     src="https://github.com/tahbee03/tahbee03/assets/65676639/6ee301a5-6e96-42a2-9da3-f861399232da"
+     height="50"/>
       
 ### Databases
 <img alt="mysql" 
