@@ -86,6 +86,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 <img alt="mysql" 
      src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png" 
      height="50"/>
+<img alt="mongodb"
+     src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png"
+     height="50"/>
  
 ### Cloud
 <img alt="heroku" 
@@ -119,6 +122,9 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
      height="50"/>
 <img alt="node.js"
      src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"
+     height="50"/>
+<img alt="postman"
+     src="https://www.svgrepo.com/download/354202/postman-icon.svg"
      height="50"/>
      
 <br/>
