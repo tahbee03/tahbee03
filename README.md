@@ -1,8 +1,6 @@
 ## Introduction
 Hello! My name is Talike (pronounced tah-leek), and I am working towards being a full-stack software engineer. I have dreamed of being a video game developer for years now, but I have decided to work more towards creating software for both mobile devices and computers. I have experience with a handful of programming languages including C++ and Python. I hope to use these languages (as well as the ones I will learn in the future) and my problem-solving skills to create and/or improve software that users will find efficient, visually appealing, and -- if applicable -- entertaining to engage with.
 
-<br/>
-
 ## Skills + Experience
 
 ### Languages
@@ -126,15 +124,3 @@ Hello! My name is Talike (pronounced tah-leek), and I am working towards being a
 <img alt="postman"
      src="https://www.svgrepo.com/download/354202/postman-icon.svg"
      height="50"/>
-     
-<br/>
-
-<p align="center">
-    <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahbee03">
-</p>
-
-<br/>
-
-## More
-**LinkedIn:** [linkedin.com/in/talikebennett/](https://www.linkedin.com/in/talikebennett/)  
-**Discord:** TDB _#8730_
