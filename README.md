@@ -1,5 +1,5 @@
 ## Introduction
-Hi! My name is Talike (pronounced tah-leek) and I am a Computer Science student at the City College of New York. I enjoy creating web applications that serve as solutions to real-world problems while simultaneously incorporating entertainment and minimalism as supporting components. Python, JavaScript, and React are examples of languages and tools that I have gained proficiency in from working on past projects. As I continue progressing in my career, my ultimate goal is to be a full-stack web developer with a well-rounded set of tech skills.
+Hi, my name is Talike (pronounced tah-leek)! I enjoy creating web applications that serve as solutions to real-world problems while simultaneously incorporating entertainment and minimalism as supporting components. Python, JavaScript, and React are examples of languages and tools that I have gained proficiency in from working on past projects. As I continue progressing in my career, my ultimate goal is to be a full-stack web developer with a well-rounded set of tech skills.
 
 ## Skills + Experience
 
