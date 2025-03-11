@@ -1,5 +1,5 @@
 ## Introduction
-Hi, my name is Talike (pronounced tah-leek)! I enjoy creating web applications that serve as solutions to real-world problems while simultaneously incorporating entertainment and minimalism as supporting components. Python, JavaScript, and React are examples of languages and tools that I have gained proficiency in from working on past projects. As I continue progressing in my career, my ultimate goal is to be a full-stack web developer with a well-rounded set of tech skills.
+Hi! My name is Talike — pronounced as tah-leek. I have been passionate about technology for practically my entire life and I look forward to pursuing a career centered around it. Initially, I wanted to get into game development, but my focus later switched over to web development during my time as a Computer Science major at the City College of New York (CCNY). There, I created a handful of projects and collaborated with like-minded intellectuals to further enhance my skills. I also have over two years of professional experience working in the information technology (IT) field, where I learned to maintain and troubleshoot a variety of devices. Moving forward, I am hoping to continue enhancing my skills and apply them in a manner that benefits as many people as possible.
 
 ## Skills + Experience
 
